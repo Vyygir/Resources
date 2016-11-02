@@ -1,6 +1,10 @@
 <?php
 /**
+ * A class to simplify the use of global cookies throughout a website.
  *
+ * @package Resources
+ * @category PHP
+ * @link http://3ft9.com/snippet-cookie-class-for-php/ The original developer
  */
 class Cookie {
 	const SESSION = null;
